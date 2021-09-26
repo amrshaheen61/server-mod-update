@@ -1,0 +1,4 @@
+Mod_UpdateSite = ""
+Mod_UpdateFile = ""
+Mod_UpdateType = "file"
+Mod_UpdateVer = "1.0"
