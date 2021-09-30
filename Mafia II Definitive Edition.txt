@@ -3,9 +3,3 @@ Mod_UpdateType = "url"
 Mod_UpdateVer = "1.0"
 
 
-result = Dialog.Message("تنويه", "هذا التعريب للتجربه فقط", MB_OK, MB_ICONINFORMATION, MB_DEFBUTTON1);
-
-
- 
-
-
