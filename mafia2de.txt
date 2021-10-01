@@ -1,3 +1,0 @@
-Mod_UpdateSite = "www.google.com"
-Mod_UpdateType = "url"
-Mod_UpdateVer = "1.1"
