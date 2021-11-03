@@ -1,5 +1,10 @@
-Mod_UpdateSite = "www.google.com"
+Mod_UpdateSite = "https://www.mediafire.com/file/7vc6t7s0da9gdad/Mafia_II_Definitive_Edition_Arabic_v1.1.rar/file"
 Mod_UpdateType = "url"
-Mod_UpdateVer = "1.0"
+Mod_UpdateVer = "1.1"
+
+
+
+
+
 
 
