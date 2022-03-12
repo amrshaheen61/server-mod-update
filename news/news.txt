@@ -1,1 +1,2 @@
+NEWS_FILE_FOR_UI
 هذا نص اختبار
