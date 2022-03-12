@@ -1,0 +1,4 @@
+UpdateFile
+
+Mod_UpdateVer = 1.1
+Mod_UpdateSite = www.google.com
